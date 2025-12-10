@@ -1,0 +1,5 @@
+{
+  "name": "SmartGrade AI",
+  "description": "An AI-powered automated grading assistant for teachers. Upload student exams and answer keys to get instant feedback and scoring.",
+  "requestFramePermissions": []
+}
